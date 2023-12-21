@@ -1,0 +1,21 @@
+ASL Starter Kit #1 Errata - These will be fixed in the rulebook included with ASL Starter Kit #2
+
+2.0 CX stands for Counter Exhaustion.
+
+3.1 The RPh example on page 4 incorrectly refers to the 5-2-7 in Q6 removing a DM counter; the unit is not DM, however.
+
+3.3 Being CX does not affect a unit's dice rolls for morale checks or PTC.
+
+3.31 Residual FP is decreased one column for each hindrance DRM and CX DRM that affects the initial attack. EX: A 4 FP attack that suffers a +1 orchard hindrance leaves only 1 Residual FP. If the attacker were also CX, no Residual FP would be left (even if being directed by a -2 leader).
+
+3.31 Residual FP cannot be left by a MG that keeps ROF (but a MG may decline ROF to leave Residual FP).
+
+3.6 A pinned leader cannot rout with a broken unit.
+
+The IFT DRM chart on the QRDC should list:
+
+"Firer CX ... +1"
+
+The CX chart on the other side of the QRDC should have "CC" added to say:
+
+"-1 DRM to CC attack vs. CX unit". 
